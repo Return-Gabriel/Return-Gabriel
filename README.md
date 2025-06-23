@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Santos
 
-<!--
-**Return-Gabriel/Return-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web  
+🚀 Explorando projetos com HTML, CSS, JS  
+🌎 São Paulo, Brasil
 
-Here are some ideas to get you started:
+> "A felicidade não é algo pronto. Ela vem de suas próprias ações."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Meus Links
+
+- [LinkedIn](https://www.linkedin.com/in/gabriel-santos-309932239/)
+- [Portfólio](https://Return-Gabriel.github.io/portfolio)
+
+---
+
+### 📈 Minhas Estatísticas GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Return-Gabriel&show_icons=true&theme=radical)
