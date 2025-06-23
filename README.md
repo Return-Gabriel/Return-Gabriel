@@ -1,5 +1,8 @@
-# 👋 Olá, eu sou o Gabriel Santos
 
+# 👋 Olá, eu sou o Gabriel Santos
+<p align="center">
+  <img src="https://github.com/Return-Gabriel/Return-Gabriel/blob/main/Group%201.png" width="200" alt="Gabriel Santos"/>
+</p>
 💻 Desenvolvedor Web  
 🚀 Explorando projetos com HTML, CSS, JS  
 🌎 São Paulo, Brasil
