@@ -16,7 +16,7 @@
 </div>
 <br>
 💻 Desenvolvedor Web  
-🚀 Explorando projetos com HTML, CSS, JS  
+ 
 🌎 São Paulo, Brasil
 
 > "A felicidade não é algo pronto. Ela vem de suas próprias ações."
