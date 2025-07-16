@@ -65,7 +65,6 @@
   Estou me formando como <strong>Desenvolvedor de Sistemas</strong> pela faculdade <strong>UNIP</strong> e atualmente curso o <strong>3º período de Análise e Desenvolvimento de Sistemas</strong>. <br><br>
   Tenho me aprofundado em novas tecnologias com foco em me consolidar como <strong>Desenvolvedor Full Stack</strong>, estudando tanto o desenvolvimento front-end quanto back-end. <br><br>
   Estou constantemente evoluindo meus conhecimentos em linguagens como <strong>JavaScript</strong>, <strong>C#</strong> e ferramentas como  <strong>.NET</strong>, <strong>SQL Server</strong>, além de explorar tecnologias modernas que impulsionam meu crescimento profissional. <br><br>
-  Acredito no poder do aprendizado prático e busco transformar teoria em resultados reais através de projetos pessoais e acadêmicos 🚀
 </p>
 
 <p align="left">
@@ -81,8 +80,8 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/gabriel-santos-309932239/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/__galvvesz?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr" title="Instagram">
+  <a href="https://www.instagram.com/_galvvesz?igsh=MTBwdHViOTZsOHR6Yg%3D%3D&utm_source=qr" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0056FF,200:00CFFF"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:007BFF,100:7A00FF,200:9F00FF)"/>
