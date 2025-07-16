@@ -6,14 +6,37 @@
 
 
 <h2>Languages and Tools:</h2>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" style="width:25px" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" style="width:25px" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" style="width:25px" />
-  <img src="https://img.icons8.com/color/48/4a90e2/git.png" alt="Git" style="width:25px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width:25px" />
 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="Css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="vstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"  />
+  <img width="12" />
+  
 </div>
+
+
+
+
+
 
 <br>
 💻 Desenvolvedor Web  
@@ -33,3 +56,5 @@
 
 ### 📈 Minhas Estatísticas GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Return-Gabriel&show_icons=true&theme=radical)
+
+
