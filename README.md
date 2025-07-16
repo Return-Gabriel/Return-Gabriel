@@ -1,21 +1,14 @@
-
-# 👋 Olá
 <p align="center">
   <img src="https://github.com/Return-Gabriel/Return-Gabriel/blob/main/Group%202.png" width="1000" alt="Gabriel Santos"/>
 </p>
 
-<br>
-💻 Desenvolvedor Web  
  
-🌎 São Paulo, Brasil
-
-> "A felicidade não é algo pronto. Ela vem de suas próprias ações."
-- [LinkedIn](https://www.linkedin.com/in/gabriel-santos-309932239/)
-- [Portfólio](https://return-gabriel.github.io/PORTREP/)
-
-
 ---
-
+<p align="left">
+  Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito. <br>
+  Tenho focado meus estudos em <strong>Front-end</strong> e <strong>Back-end</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada como desenvolvedor Full Stack.
+</p>
+<br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Return-Gabriel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Return-Gabriel&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -29,7 +22,7 @@
 </div> -->
 
 
-<h2>Languages and Tools:</h2>
+<h2>Tecnologias e linguagens:</h2>
 
 
 <div align="center">
@@ -62,5 +55,34 @@
   <img src="https://skillicons.dev/icons?i=ps" height="60" alt="ps logo"  />
   <img width="12" />
 </div>
+<br>
+<br>
+<br>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left"> 
+  Estou me formando como <strong>Desenvolvedor de Sistemas</strong> pela faculdade <strong>UNIP</strong> e atualmente curso o <strong>3º período de Análise e Desenvolvimento de Sistemas</strong>. <br><br>
+  Tenho me aprofundado em novas tecnologias com foco em me consolidar como <strong>Desenvolvedor Full Stack</strong>, estudando tanto o desenvolvimento front-end quanto back-end. <br><br>
+  Estou constantemente evoluindo meus conhecimentos em linguagens como <strong>JavaScript</strong>, <strong>C#</strong> e ferramentas como  <strong>.NET</strong>, <strong>SQL Server</strong>, além de explorar tecnologias modernas que impulsionam meu crescimento profissional. <br><br>
+  Acredito no poder do aprendizado prático e busco transformar teoria em resultados reais através de projetos pessoais e acadêmicos 🚀
+</p>
+
+<p align="left">
+
+</p>
+
+<p align="left">
+  Vamos nos conectar?  
+</p>
+
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alves.santos.biel@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-santos-309932239/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/__galvvesz?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0056FF,200:00CFFF"/>
