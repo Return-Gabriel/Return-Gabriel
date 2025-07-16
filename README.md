@@ -77,6 +77,9 @@
 ###
 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Return-Gabriel/Return-Gabriel/output/snake.svg" alt="Snake animation" />
 
 ### 📈 Minhas Estatísticas GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Return-Gabriel&show_icons=true&theme=radical)
