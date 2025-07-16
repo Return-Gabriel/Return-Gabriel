@@ -55,17 +55,14 @@
 
 ### 🔗 Meus Links
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+- [LinkedIn](https://www.linkedin.com/in/gabriel-santos-309932239/)
+- [Portfólio](https://Return-Gabriel.github.io/portfolio)
 
 ---
-###
-
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
 ###
 
@@ -83,3 +80,9 @@
 </picture>
 
 ###
+
+
+### 📈 Minhas Estatísticas GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Return-Gabriel&show_icons=true&theme=radical)
+
+
