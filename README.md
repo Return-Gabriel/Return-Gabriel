@@ -63,6 +63,7 @@
 
   <img src="https://github-profile-trophy.vercel.app?username=Return-Gabriel&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Return-Gabriel/Return-Gabriel/output/pacman-contribution-graph-dark.svg">
@@ -71,9 +72,7 @@
 </picture>
 
 ###
----
 
 ### 📈 Minhas Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Return-Gabriel&show_icons=true&theme=radical)
-
