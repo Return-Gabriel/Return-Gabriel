@@ -37,7 +37,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="60" alt="ps logo"  />
   <img width="12" />
-  <img src="  https://skillicons.dev/icons?i=codepen" height="60" alt="CodePen logo" />
 </div>
 
 
@@ -65,6 +64,9 @@
 </div>
 
 ---
+###
+
+
 ###
 
 <div align="center">
