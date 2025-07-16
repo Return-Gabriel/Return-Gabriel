@@ -1,9 +1,12 @@
+
 # 👋 Olá
 <p align="center">
   <img src="https://github.com/Return-Gabriel/Return-Gabriel/blob/main/Group%202.png" width="1000" alt="Gabriel Santos"/>
 </p>
 
+
 <h2>Languages and Tools:</h2>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
@@ -36,6 +39,11 @@
   <img width="12" />
 </div>
 
+
+
+
+
+
 <br>
 💻 Desenvolvedor Web  
  
@@ -50,19 +58,14 @@
 - [LinkedIn](https://www.linkedin.com/in/gabriel-santos-309932239/)
 - [Portfólio](https://Return-Gabriel.github.io/portfolio)
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
 ###
 
 <div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app?username=Return-Gabriel&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=Return-Gabriel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Return-Gabriel&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
 <br clear="both">
 
 <picture>
@@ -73,6 +76,9 @@
 
 ###
 
-### 📈 Minhas Estatísticas GitHub
 
+
+### 📈 Minhas Estatísticas GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Return-Gabriel&show_icons=true&theme=radical)
+
+
